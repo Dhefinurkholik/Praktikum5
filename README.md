@@ -7,16 +7,16 @@
 
 ## Flowchart
 
-![gambar](gambar/flowchart.png) </ br>
+![gambar](gambar/flowchart.png) </br>
 
 ## Berikut contoh Gambar Sintaksnya
 
-![gambar](gambar/mencarinilai.png) </ br>
+![gambar](gambar/mencarinilai.png) </br>
 
-![gambar](gambar/lanjutan.png) </ br>
+![gambar](gambar/lanjutan.png) </br>
 
 ## Berikut contoh Gambar Output
 
-![gambar](gambar/output.png) </ br>
+![gambar](gambar/output.png) </br>
 
 SELESAI
